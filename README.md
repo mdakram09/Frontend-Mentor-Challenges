@@ -1,1 +1,1 @@
-# qr-code-component-main-Frontend-Mentor-Challenges-
+# This Repository contains solutions of all the Frontend challenges by Frontend Mentor
